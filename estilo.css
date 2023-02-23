@@ -1,0 +1,65 @@
+.imagem{
+    height: 300px;
+    width: 450px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: 3px solid black;
+}
+.caixa{
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+.quem{
+text-align: center;
+text-transform: uppercase;
+font-weight: bold;
+}
+.resposta{
+    text-align: center;
+    font-weight: bold;
+}
+.membros{
+    text-transform: uppercase;
+    text-align: center;
+}
+.fundacao{
+    text-align: center;
+}
+.data{
+    text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 15px;
+  padding: 15px;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+
+.navii{
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(255, 255, 255);
+  padding: 10px;
+}
+.lars{
+
+}
