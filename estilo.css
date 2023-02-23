@@ -40,7 +40,10 @@ ul {
 }
 
 li {
-  float: left;
+float:left;
+position:relative;
+left: 480px;
+top: auto;
 }
 
 li a {
@@ -53,13 +56,9 @@ li a {
 li a:hover {
   background-color: #111;
 }
-
-.navii{
-  margin: auto;
-  width: 50%;
-  border: 3px solid rgb(255, 255, 255);
-  padding: 10px;
-}
 .lars{
 
+}
+body{
+  background-color: #3d3c3c;
 }
