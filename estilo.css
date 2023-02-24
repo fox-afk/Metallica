@@ -6,11 +6,12 @@
     margin-left: auto;
     border: 3px solid black;
 }
-.caixa{
+#caixa{
     margin: auto;
     width: 50%;
     border: 3px solid black;
     padding: 10px;
+    background-color: white;
 }
 .quem{
 text-align: center;
@@ -37,12 +38,13 @@ ul {
   padding: 15px;
   overflow: hidden;
   background-color: #000000;
+ 
 }
 
 li {
 float:left;
 position:relative;
-left: 480px;
+left: 490px;
 top: auto;
 }
 
@@ -56,9 +58,18 @@ li a {
 li a:hover {
   background-color: #111;
 }
-.lars{
-
+#ulrich{
+right: 100px;
 }
 body{
   background-color: #3d3c3c;
+}
+.caixadojames{
+  border: 3px solid black;
+position: fixed;
+left: 450px;
+}
+.guitarra{
+  position: absolute;
+  left: 10px;
 }
