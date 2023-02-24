@@ -60,9 +60,12 @@ background-color: white;
     left: 700px;
     background-color: white;
 }
-.lars{
-
-}
 #ulrich{
     right: 100px;
     }
+.caixadokirk{
+  border:3px solid rgb(0, 0, 0);
+  position: fixed;
+  left: 999px;
+  background-color: white;
+}
